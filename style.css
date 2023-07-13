@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav u1 li{
+    display: inline-black;
+    list-style: name;
+    margin: 10px 2px
+
+}
